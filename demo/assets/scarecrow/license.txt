@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scary Pumpkin Scarecrow Character
+* source:	https://sketchfab.com/3d-models/scary-pumpkin-scarecrow-character-66c2b6c9fb134e47af22d1ae88cb8fa9
+* author:	Charles Smith (Blitz Mobile Apps) (https://sketchfab.com/BlitzMobileApp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scary Pumpkin Scarecrow Character" (https://sketchfab.com/3d-models/scary-pumpkin-scarecrow-character-66c2b6c9fb134e47af22d1ae88cb8fa9) by Charles Smith (Blitz Mobile Apps) (https://sketchfab.com/BlitzMobileApp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
